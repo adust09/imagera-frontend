@@ -1,1 +1,0 @@
-# imagera-frontend
